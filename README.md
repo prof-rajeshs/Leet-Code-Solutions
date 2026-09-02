@@ -20,4 +20,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
