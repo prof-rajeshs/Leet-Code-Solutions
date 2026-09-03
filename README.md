@@ -36,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0038-count-and-say](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0038-count-and-say/) | Medium |
 <!---LeetCode Topics End-->
