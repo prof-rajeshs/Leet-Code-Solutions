@@ -40,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0038-count-and-say/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
