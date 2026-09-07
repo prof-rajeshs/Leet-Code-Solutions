@@ -24,18 +24,22 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 ## String
 | Problem Name | Difficulty |
