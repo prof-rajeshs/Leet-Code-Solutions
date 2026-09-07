@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0655-print-binary-tree/) | Medium |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 <!---LeetCode Topics End-->
