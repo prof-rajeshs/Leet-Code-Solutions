@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
