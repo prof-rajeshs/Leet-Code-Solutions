@@ -52,11 +52,13 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Divide and Conquer
@@ -94,5 +96,6 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
