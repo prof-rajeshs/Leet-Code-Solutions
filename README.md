@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 <!---LeetCode Topics End-->
