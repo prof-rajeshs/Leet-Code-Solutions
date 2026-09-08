@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
