@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0048-rotate-image/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0046-permutations/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
