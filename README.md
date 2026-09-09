@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0048-rotate-image/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0048-rotate-image/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
