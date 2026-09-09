@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0043-multiply-strings/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,5 +98,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0043-multiply-strings](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0050-powx-n/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/prof-rajeshs/Leet-Code-Solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
